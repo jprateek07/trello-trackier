@@ -1,0 +1,64 @@
+.login-section{
+  background: #1C8EF9 !important;
+  height: 100vh;
+  width: 100%;
+  .login-title{
+    font-size: 30px;
+    font-weight: 800;
+    color: white;
+    text-shadow: 2px 2px #7a7a7a;
+    margin-bottom: 10px;
+  }
+  .ant-card{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+  }
+}
+.app-section {
+  margin-bottom: 30px;
+}
+
+.field-section {
+  margin-bottom: 15px;
+}
+
+.content-blue {
+  background-color: var(--blue);
+  color: white;
+}
+
+.typo-pointer {
+  cursor: pointer;
+}
+
+.typo-blue {
+  color: #1C8EF9;
+}
+
+.typo-grey {
+  margin: 5px 0;
+  color: rgba(0, 0, 0, 0.54);
+}
+
+.typo-bold {
+  font-weight: 600;
+}
+
+.typo-center {
+  text-align: center;
+}
+
+.typo-right {
+  text-align: right;
+  button{
+    width: 100%;
+  }
+}
+
+.margin-auto {
+  margin: auto;
+}
+
+.btn-green {
+  color: white;
+}
+

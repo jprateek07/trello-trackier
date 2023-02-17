@@ -1,0 +1,68 @@
+.login-section{
+  background: #1C8EF9 !important;
+  height: 100vh;
+  width: 100%;
+  .login-title{
+    font-size: 30px;
+    font-weight: 800;
+    color: white;
+    text-shadow: 2px 2px #7a7a7a;
+    margin-bottom: 10px;
+  }
+}
+.app-section {
+  margin-bottom: 30px;
+}
+
+.field-section {
+  margin-bottom: 15px;
+}
+
+.content-blue {
+  background-color: var(--blue);
+  color: white;
+}
+
+.typo-pointer {
+  cursor: pointer;
+}
+
+.typo-blue {
+  color: #1C8EF9;
+}
+
+.typo-grey {
+  margin: 5px 0;
+  color: rgba(0, 0, 0, 0.54);
+}
+
+.typo-bold {
+  font-weight: 600;
+}
+
+.typo-center {
+  text-align: center;
+}
+
+.typo-right {
+  text-align: right;
+  button{
+    width: 100%;
+  }
+}
+
+.margin-auto {
+  margin: auto;
+}
+
+.btn-green {
+  background-color: var(--green);
+  border-color: var(--green);
+  color: white;
+}
+
+.btn-green:hover,
+.btn-green:focus {
+  background-color: var(--green2);
+  border-color: var(--green2);
+}
